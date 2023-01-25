@@ -18,7 +18,7 @@ MERN stack application that allows users to sign up/log in and search for books.
 
 To install, please be sure you have Node.js installed on your machine. Then clone the repo and run `npm install` to install all required dependencies.
 
-NOTE: To make use of JWT, include a `.env` file in the main directory, add `JWT_SECRET=`, and add your secret.
+NOTE: To make use of JWT, include a `.env` file in the main directory, add `JWT_SECRET=`, and add your secret. If deploying yourself, be sure to include `MONGODB_URI=` and add your connection string from MongoDB atlas.
 
 [Click Here for Github Repo](https://github.com/naveed-mahmoudian/GraphQL-Book-Search-Engine)
 
