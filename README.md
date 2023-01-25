@@ -26,7 +26,7 @@ NOTE: To make use of JWT, include a `.env` file in the main directory, add `JWT_
 
 To use this application in development or as a user, see below:
 
-[Click Here for Deployed Application]()
+[Click Here for Deployed Application](https://navgraphql.herokuapp.com/)
 
 - ### Development
 
