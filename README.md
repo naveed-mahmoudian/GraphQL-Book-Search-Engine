@@ -4,7 +4,7 @@
 
 ## Description
 
-MERN stack application that allows users to sign up/log in and search for books. Books can also be saved to your user profile. Built with MERN, Google Books API, GraphQL, and Apollo Server.
+MERN stack application that allows users to sign up/log in and search for books. Books can also be saved to your user profile. Built with MERN, Google Books API, GraphQL, Apollo Server, and jsonwebtoken for user auth.
 
 ## Table of Contents
 
@@ -17,6 +17,8 @@ MERN stack application that allows users to sign up/log in and search for books.
 ## Installation
 
 To install, please be sure you have Node.js installed on your machine. Then clone the repo and run `npm install` to install all required dependencies.
+
+NOTE: To make use of JWT, include a `.env` file in the main directory, add `JWT_SECRET=`, and add your secret.
 
 [Click Here for Github Repo](https://github.com/naveed-mahmoudian/GraphQL-Book-Search-Engine)
 
